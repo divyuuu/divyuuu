@@ -38,14 +38,6 @@ I am a backend-focused engineer with a passion for building high-concurrency sys
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=divyuuu&show_icons=true&theme=radical&hide_border=true" alt="Divyanshu's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyuuu&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="150" />
-</p>
-
----
-
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyanshu117/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/u/divyanshucodes11/)

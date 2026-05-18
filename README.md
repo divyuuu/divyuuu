@@ -18,7 +18,7 @@ high-concurrency backends, and search architecture optimization.
 ### 🛠️ Tech Stack
 | Category | Skills |
 | :--- | :--- |
-| **Languages** | C++ (primary), Java, Python, SQL, JavaScript |
+| **Languages** | C++ , Java, Python, SQL, JavaScript |
 | **Systems** | Memory Management, Multithreading, Custom Allocators |
 | **Frameworks** | Spring Boot, Spring Data JPA, Hibernate, React.js |
 | **Databases** | PostgreSQL, MySQL, Redis, Apache Solr |

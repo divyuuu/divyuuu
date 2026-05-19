@@ -26,10 +26,15 @@ I am a backend-focused engineer with a passion for building high-concurrency sys
 
 ### 📁 Featured Projects
 
-#### 🏎️ [Ryde — Premium Chauffeur Service](https://github.com/divyuuu/ryde-backend)
+#### 🏎️ Ryde — Premium Chauffeur Service  
+[🔗 Backend](https://github.com/divyuuu/ryde-backend) • [🎨 Frontend](https://github.com/divyuuu/ryde-frontend)  
+<span style="color:#00ff88;">🟢 Active Project</span>
+
 *High-concurrency backend for real-time ride-hailing.*
+
 * **Impact:** Reduced DB read operations by **60%** via Redis and improved API response times by **40%**.
 * **Tech:** Spring Boot, Redis, WebSockets, PostgreSQL, Docker.
+
 
 #### 🎫 [Bookizy — Real-Time Booking](https://github.com/divyuuu/bookizy)
 *State-driven token queue system for healthcare/service bookings.*

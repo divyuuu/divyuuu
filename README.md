@@ -2,7 +2,7 @@
 
 ### AI Engineer | LLMs • Agentic AI • Evaluation • Fine-Tuning • AI Systems
 
-I'm an **AI Engineer at Azim Care** focused on building and improving production-grade AI systems using **Large Language Models, agentic workflows, model evaluation, fine-tuning, and AI observability**.
+I'm an **AI Engineer at RVM CAD** focused on building and improving production-grade AI systems using **Large Language Models, agentic workflows, model evaluation, fine-tuning, and AI observability**.
 
 My background in backend engineering gives me a strong foundation for building AI systems that are not just functional, but **scalable, measurable, reliable, and production-ready**.
 
